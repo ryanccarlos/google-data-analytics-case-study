@@ -1,0 +1,6 @@
+# Ignorar pastas de dados pesados
+data/raw/
+data/processed/
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
