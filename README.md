@@ -13,7 +13,7 @@ This project analyzes 12 months of Cyclistic bike-share trip data to understand 
 ## Project Structure
 
 ```
-Data Analytics - Study Case/
+google-data-analytics-case-study/
 ├── README.md                          # Project documentation (this file)
 ├── analysis.ipynb                     # Main analysis notebook
 ├── data/
@@ -57,7 +57,7 @@ Data Analytics - Study Case/
 3. Navigate to the project directory:
 
    ```bash
-   cd "Data Analytics - Study Case"
+   cd "google-data-analytics-case-study"
    ```
 
 4. Launch Jupyter:
